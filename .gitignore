@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Project Specific
+data/
+model_output/
+*.csv
+*.pth
+*.tar.gz

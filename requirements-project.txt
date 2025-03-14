@@ -1,0 +1,14 @@
+kaggle
+tqdm
+scikit-learn
+seaborn
+pandas
+flask
+openai
+python-dotenv
+boto3
+numpy>=1.24.0,<2
+matplotlib
+ipykernel
+torch
+transformers
