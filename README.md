@@ -11,6 +11,8 @@ This project implements a content moderation system for a chat application. It l
 
 <img src="readme/chat-moderator.gif" width=631 />
 
+💡 Please note: The chat messages shown are strictly for testing purposes and do not reflect my personal views or manner of speaking. As a French person, I value respectful dialogue. 😊
+
 ## Environment Setup
 Clone the repository, create a virtual environment and install dependencies as follows. There are multiple requirements files in the repo, use **requirements-project.txt**, which should cover everything  you need.
 
